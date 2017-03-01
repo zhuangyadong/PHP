@@ -8,6 +8,6 @@
 
     print_r($arr);
     echo "<br>";
-    echo $arr[0].'在'.$arr[1].'今年'.$arr[2];
+    echo $arr[0].'在'.$arr[1].'以前'.$arr[2];
 
 ?>
