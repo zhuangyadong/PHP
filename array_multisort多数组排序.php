@@ -1,7 +1,7 @@
 
 <?php
 
-$arr=array("aaaa","bbbbbbbbbbbb","cc","ddddddd");
+$arr=array("aaaa","bbbbbbbbbbbbb","cc","ddddddd");
 
 //需求：
     //1.按照标题长度排序
