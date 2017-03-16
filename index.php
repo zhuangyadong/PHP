@@ -1,14 +1,12 @@
 <?php
-    header("content-type:text/html;charset=utf-8");
+header("content-type:text/html;charset=utf-8");
 
-    $arr = array("a"=>10,"e"=>20,"c"=>30,"d"=>40);
+    echo "<form action='mess.php'>
+                <input type='text' title='' value='标题'><br>
+                <textarea style='width: 500px;height: 300px;'></textarea><br>
+                <input type='submit' value='留言'>
+            
+          </form>";
 
-    $arr2 = array_flip($arr);
-
-    ksort($arr2);
-
-    echo "<pre>";
-    print_r($arr2);
-    echo "</pre>";
 
 ?>
