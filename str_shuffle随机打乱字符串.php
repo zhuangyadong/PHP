@@ -1,6 +1,7 @@
 <?php
+header("content-type:text/html;charset=utf-8");
 
-
-    echo str_shuffle("123456");
+  echo str_shuffle("abcdef");
+  
 
 ?>
