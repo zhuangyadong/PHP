@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa35fda6-0391-4cb3-964f-0d62c40d61cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form-test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htmlspecialchars转实体.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mess.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/messa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql-messa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/strip_tags去掉和保留标签.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/$_GET.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/str_shuffle随机打乱字符串.php" afterPath="$PROJECT_DIR$/str_shuffle随机打乱字符串.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -79,13 +72,13 @@
       <file leaf-file-name="messa.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/messa.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="152">
+              <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
               <folding>
-                <marker date="1489998800573" expanded="true" signature="286:325" ph="insert into messa... " />
-                <marker date="1489998800573" expanded="true" signature="286:326" ph="insert into messa... " />
-                <marker date="1489998800573" expanded="true" signature="286:337" ph="insert into messa... " />
-                <marker date="1489998800573" expanded="true" signature="286:349" ph="insert into messa... " />
+                <marker date="1490000887360" expanded="true" signature="286:325" ph="insert into messa... " />
+                <marker date="1490000887360" expanded="true" signature="286:326" ph="insert into messa... " />
+                <marker date="1490000887360" expanded="true" signature="286:337" ph="insert into messa... " />
+                <marker date="1490000887360" expanded="true" signature="286:349" ph="insert into messa... " />
               </folding>
             </state>
           </provider>
@@ -130,12 +123,9 @@
       <file leaf-file-name="mess.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mess.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-              <folding>
-                <marker date="1489991660553" expanded="true" signature="1017:1093" ph="..." />
-                <marker date="1489991660553" expanded="true" signature="1034:1093" ph="..." />
-              </folding>
+            <state relative-caret-position="326">
+              <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -179,8 +169,8 @@
         <option value="$PROJECT_DIR$/mess.php" />
         <option value="$PROJECT_DIR$/strip_tags去掉和保留标签.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/messa.php" />
         <option value="$PROJECT_DIR$/../../php数组.txt" />
+        <option value="$PROJECT_DIR$/messa.php" />
       </list>
     </option>
   </component>
@@ -338,7 +328,7 @@
       <workItem from="1489562040159" duration="5938000" />
       <workItem from="1489644129797" duration="9147000" />
       <workItem from="1489976375455" duration="1754000" />
-      <workItem from="1489978148225" duration="13116000" />
+      <workItem from="1489978148225" duration="13427000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1488354626518</created>
@@ -417,11 +407,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489979302300</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="mysql">
+      <created>1490000597028</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1490000597028</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73427000" />
+    <option name="totallyTimeSpent" value="73738000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,7 +437,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -463,7 +460,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="mysql" />
+    <option name="LAST_COMMIT_MESSAGE" value="mysql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -814,12 +812,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mess.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-          <folding>
-            <marker date="1489991660553" expanded="true" signature="1017:1093" ph="..." />
-            <marker date="1489991660553" expanded="true" signature="1034:1093" ph="..." />
-          </folding>
+        <state relative-caret-position="326">
+          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -864,7 +859,7 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -879,13 +874,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/messa.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="152">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
           <folding>
-            <marker date="1489998800573" expanded="true" signature="286:325" ph="insert into messa... " />
-            <marker date="1489998800573" expanded="true" signature="286:326" ph="insert into messa... " />
-            <marker date="1489998800573" expanded="true" signature="286:337" ph="insert into messa... " />
-            <marker date="1489998800573" expanded="true" signature="286:349" ph="insert into messa... " />
+            <marker date="1490000887360" expanded="true" signature="286:325" ph="insert into messa... " />
+            <marker date="1490000887360" expanded="true" signature="286:326" ph="insert into messa... " />
+            <marker date="1490000887360" expanded="true" signature="286:337" ph="insert into messa... " />
+            <marker date="1490000887360" expanded="true" signature="286:349" ph="insert into messa... " />
           </folding>
         </state>
       </provider>
