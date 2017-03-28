@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa35fda6-0391-4cb3-964f-0d62c40d61cb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parse_str拆分参数.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parse_url地址拆分.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pathinfo截取文件后缀.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/str_replace多个字符串替换.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/str_replace替换字符串.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/模拟GET数组.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
@@ -32,8 +39,8 @@
       <file leaf-file-name="php数组.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../php数组.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2299">
-              <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+            <state relative-caret-position="74">
+              <caret line="115" column="15" lean-forward="true" selection-start-line="115" selection-start-column="15" selection-end-line="115" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -42,95 +49,50 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="266">
+              <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mb_substr中文字符截取.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mb_substr中文字符截取.php">
+      <file leaf-file-name="parse_str拆分参数.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse_str拆分参数.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="76">
+              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strcasecmp统一大小写.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strcasecmp统一大小写.php">
+      <file leaf-file-name="模拟GET数组.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/模拟GET数组.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ord和chr转ascII.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ord和chr转ascII.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strcmp字符串比较.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strcmp字符串比较.php">
+      <file leaf-file-name="parse_url地址拆分.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse_url地址拆分.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="3" column="123" lean-forward="true" selection-start-line="3" selection-start-column="123" selection-end-line="3" selection-end-column="123" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mysql-messa.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysql-messa.php">
+      <file leaf-file-name="pathinfo截取文件后缀.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pathinfo截取文件后缀.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strip_tags去掉和保留标签.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strip_tags去掉和保留标签.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="messa.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/messa.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1490000887360" expanded="true" signature="286:325" ph="insert into messa... " />
-                <marker date="1490000887360" expanded="true" signature="286:326" ph="insert into messa... " />
-                <marker date="1490000887360" expanded="true" signature="286:337" ph="insert into messa... " />
-                <marker date="1490000887360" expanded="true" signature="286:349" ph="insert into messa... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="htmlspecialchars转实体.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htmlspecialchars转实体.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <marker date="1489990475768" expanded="true" signature="94:137" ph="..." />
+                <marker date="1490689106494" expanded="true" signature="138:168" ph="..." />
               </folding>
             </state>
           </provider>
@@ -169,7 +131,9 @@
         <option value="$PROJECT_DIR$/strcasecmp统一大小写.php" />
         <option value="$PROJECT_DIR$/../../php数组.txt" />
         <option value="$PROJECT_DIR$/mb_substr中文字符截取.php" />
+        <option value="$PROJECT_DIR$/pathinfo截取文件后缀.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/parse_str拆分参数.php" />
       </list>
     </option>
   </component>
@@ -181,10 +145,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="413" />
-    <option name="y" value="89" />
-    <option name="width" value="1123" />
-    <option name="height" value="863" />
+    <option name="x" value="399" />
+    <option name="y" value="107" />
+    <option name="width" value="1046" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -215,8 +179,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,13 +190,13 @@
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\AppServ\www\test\PHP" />
-      <recent name="C:\AppServ\www\test" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\AppServ\www\test\PHP\$_FILES文件上传" />
       <recent name="C:\AppServ\www\test\PHP\$_post表单传输" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AppServ\www\test\PHP" />
+      <recent name="C:\AppServ\www\test" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.php">
@@ -329,7 +293,8 @@
       <workItem from="1489976375455" duration="1754000" />
       <workItem from="1489978148225" duration="13712000" />
       <workItem from="1490168215774" duration="5295000" />
-      <workItem from="1490341346016" duration="2223000" />
+      <workItem from="1490341346016" duration="2837000" />
+      <workItem from="1490686669712" duration="4350000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1488354626518</created>
@@ -436,11 +401,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490173558063</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="mysql">
+      <created>1490344535693</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1490344535693</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81541000" />
+    <option name="totallyTimeSpent" value="86505000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -452,10 +424,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="413" y="89" width="1123" height="863" extended-state="0" />
+    <frame x="399" y="107" width="1046" height="743" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23215899" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2776699" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -492,55 +464,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/$_post表单传输/rev.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/引用参数.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rsort降序.php" />
-    <entry file="file://$PROJECT_DIR$/unset() 销毁指定的变量.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foreach循环table表格.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1488875065810" expanded="true" signature="335:692" ph="..." />
-            <marker date="1488875065810" expanded="true" signature="352:692" ph="..." />
-            <marker date="1488875065810" expanded="true" signature="774:1124" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/$_cookie.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/七维数组.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/do...while循环.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -851,18 +774,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ord和chr转ascII.php">
+    <entry file="file://$PROJECT_DIR$/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../php数组.txt">
+    <entry file="file://$PROJECT_DIR$/str_replace替换字符串.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2299">
-          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+        <state relative-caret-position="190">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str_replace多个字符串替换.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mb_substr中文字符截取.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -875,18 +814,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mb_substr中文字符截取.php">
+    <entry file="file://$PROJECT_DIR$/ord和chr转ascII.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="95">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../php数组.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="115" column="15" lean-forward="true" selection-start-line="115" selection-start-column="15" selection-end-line="115" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathinfo截取文件后缀.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490689106494" expanded="true" signature="138:168" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_url地址拆分.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="3" column="123" lean-forward="true" selection-start-line="3" selection-start-column="123" selection-end-line="3" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模拟GET数组.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_str拆分参数.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        <state relative-caret-position="266">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
           <folding />
         </state>
       </provider>
