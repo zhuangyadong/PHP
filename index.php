@@ -7,6 +7,7 @@ $arr = parse_url($str);
 
 parse_str($arr['query'],$arr2);
 
+
 echo "<pre>";
 print_r($arr2);
 echo "</pre>";
