@@ -7,7 +7,8 @@
     $arr2 = array_flip($arr);
 
     echo "<pre>";
+
     print_r($arr2);
+
     echo "</pre>";
 
-?>
