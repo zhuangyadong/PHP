@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>get传值</title>
+    <title>get传输数据</title>
 </head>
 <body>
     <h1>查看用户详情信息</h1>
