@@ -1,7 +1,6 @@
 <?php
-//----------------1 
+//----------------
 	header("content-type:text/html;charset=utf-8");
-
 	$score=80;
 
 	if($score>=90){
