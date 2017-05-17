@@ -9,9 +9,6 @@ function jige($val){
 
 $arr2=array_filter($arr,"jige");
 
-
-
-
 echo "<pre>";
 print_r($arr2);
 echo "</pre>";
