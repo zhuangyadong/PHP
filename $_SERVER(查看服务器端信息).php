@@ -1,8 +1,6 @@
 <?php
 
 	header("content-type:text/html;charset=utf-8");
-    //查看服务器信息
-
 
 
 
