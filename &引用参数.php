@@ -4,6 +4,8 @@
 
 	$num=10;
 
+
+
 	function fun(&$i){
 		$i++;
 	}
