@@ -1,5 +1,5 @@
 <?php
-//----------------1 
+//-----------1
 	header("content-type:text/html;charset=utf-8");
 
 
