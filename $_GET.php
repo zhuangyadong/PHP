@@ -8,6 +8,8 @@
     <title>get传输数据</title>
 </head>
 <body>
+    
+    
     <h1>查看用户详情信息</h1>
     <h1>
         <a href="rev.php?name=庄亚东&age=23&sex=男&sch=哈佛" target="_blank">庄亚东</a>
