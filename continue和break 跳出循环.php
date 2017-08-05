@@ -1,8 +1,6 @@
 <?php
 //-----------1
 	header("content-type:text/html;charset=utf-8");
-
-
 	for($i=1;$i<=5;$i++){
 		
 		if($i==3){
